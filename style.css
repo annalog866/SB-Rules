@@ -1,0 +1,29 @@
+body {
+  width: 100%;
+  /* height: 100%; */
+  font-family: "Ubuntu", sans-serif,'Hind Siliguri';
+  background: rgb(98,57,69);
+  background: linear-gradient(99deg, rgba(98,57,69,1) 0%, rgba(26,49,87,1) 100%);
+}
+h2{
+    text-align: center;
+    color: white;
+
+}
+h4{
+  color: white;
+}
+h1{
+  color: white;
+}
+h3{
+  color:white;
+}
+p{
+  color: white;
+}
+.nx-text-primary-600 {
+    --tw-text-opacity: 1;
+    color: hsl(var(--nextra-primary-hue)100% 45%/var(--tw-text-opacity));
+
+    
